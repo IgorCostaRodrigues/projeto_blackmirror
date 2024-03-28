@@ -17,16 +17,16 @@ O programa retornará a resposta correspondente à pergunta inserida.
 
 # Exemplo de Uso:
 
-# Qual sua pergunta?: QUAL É O NOME COMPLETO DA PROTAGONISTA DO EPISÓDIO?
+Qual sua pergunta?: QUAL É O NOME COMPLETO DA PROTAGONISTA DO EPISÓDIO?
 >>> Annie Murphy
 
-# Qual sua pergunta?: O EPISÓDIO TERMINA DE MANEIRA TÍPICA PARA A SÉRIE BLACK MIRROR? EXPLIQUE.
+Qual sua pergunta?: O EPISÓDIO TERMINA DE MANEIRA TÍPICA PARA A SÉRIE BLACK MIRROR? EXPLIQUE.
 >>> Sim, termina de uma maneira que não imaginava, era tudo uma série com algo que aconteceu em outra realidade.
 
-# Qual sua pergunta?: Quem é o diretor da vida de Joan em tempo real para uma série de televisão?
+Qual sua pergunta?: Quem é o diretor da vida de Joan em tempo real para uma série de televisão?
 >>> Super Computador
 
-# Qual sua pergunta?: Qual é a reação inicial de Joan ao descobrir a série e o que ela faz em resposta?
+Qual sua pergunta?: Qual é a reação inicial de Joan ao descobrir a série e o que ela faz em resposta?
 >>> SURTO
 
 # Contribuições
